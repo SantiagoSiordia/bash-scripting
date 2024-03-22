@@ -18,8 +18,7 @@ do
     echo -e "The file/directory $FILE_OR_DIR does not exist."
     continue
   fi
-
-
+  
   echo -e "\n\nFor fille/directory ${FILE_OR_DIR}:\n"
 
   if [ -f $FILE_OR_DIR ]
