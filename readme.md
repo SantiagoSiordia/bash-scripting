@@ -13,3 +13,5 @@
 >  ```bash
 >  #!/bin/bash
 >  ```
+
+- It's a best practice to use the ${VARIABLE} syntax if there is text or characters that directly precede or follow the variable.
