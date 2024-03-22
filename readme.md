@@ -4,12 +4,12 @@
 
 - Remember to make the shell scripts executable with the chmod command.
   
-  ```bash
-  chmod +x script.sh
-  ```
+>  ```bash
+>  chmod +x script.sh
+>  ```
 
 - Remember to start your script with a shebang!
   
-    ```bash
-    #!/bin/bash
-    ```
+>  ```bash
+>  #!/bin/bash
+>  ```
