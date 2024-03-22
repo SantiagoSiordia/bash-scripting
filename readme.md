@@ -1,6 +1,6 @@
 # Bash Scripting
 
-## Extra knowledge
+## Scripting Tips
 
 - Remember to make the shell scripts executable with the chmod command.
   
